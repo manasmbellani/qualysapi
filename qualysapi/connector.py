@@ -43,7 +43,7 @@ class QGConnector(api_actions.QGActions):
 
     """
 
-    def __init__(self, auth, server='qualysapi.qualys.com', proxies=None, max_retries=3):
+    def __init__(self, auth, server='qualysapi.qg2.apps.qualys.com', proxies=None, max_retries=3):
         # Read username & password from file, if possible.
         self.auth = auth
         # Remember QualysGuard API server.

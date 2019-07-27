@@ -69,7 +69,7 @@ Tested successfully on Python 2.7.
 Configuration
 =============
 
-By default, the package will ask at the command prompt for username and password. By default, the package connects to the Qualys documented host (qualysapi.qualys.com).
+By default, the package will ask at the command prompt for username and password. By default, the package connects to the Qualys documented host (qualysapi.qg2.apps.qualys.com).
 
 You can override these settings and prevent yourself from typing credentials by doing any of the following:
 

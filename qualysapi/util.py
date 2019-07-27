@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 
 # NOTE: Possibly switch to multimethod for clarity
 def connect(config_file=qcs.default_filename, section='info', remember_me=False, remember_me_always=False,
-            username=None, password=None, hostname="qualysapi.qualys.com", max_retries="3"):
+            username=None, password=None, hostname="qualysapi.qg2.apps.qualys.com", max_retries="3"):
     """ Return a QGAPIConnect object for v1 API pulling settings from config
     file.
     """

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # Use the defusedxml package for all xml parsing. See bandit docs: 
 # https://bandit.readthedocs.io/en/latest/blacklists/blacklist_imports.html#b405-import-xml-etree

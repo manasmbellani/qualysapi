@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 __author__ = 'Parag Baxi <parag.baxi@gmail.com>'
 __license__ = 'Apache License 2.0'
 
